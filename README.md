@@ -5,4 +5,6 @@ Creating a new branch is quick and simple.
 
 this is dev change!!!!!!!!!!
 
-this is a bug  and  now reslove!
+this  is test :
+	git stash
+
